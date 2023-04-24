@@ -1,0 +1,7 @@
+develop on github
+develop on desktop
+twice modified on github
+
+白爛no，檔案修改過後要自己去改，改好再重新push、pull
+
+測試git fetch and merge
